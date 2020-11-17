@@ -43,3 +43,12 @@ header h2 {
     border-top: none;
     padding: 10px;
 }
+
+.carousel-caption {
+    /* rgba allows opaqueness of the background w/ the .5 */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
